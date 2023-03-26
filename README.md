@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @funkyranveer
 - 📱 Contact: funkyranveer#5643 (DM'S OPEN!)
 
-- I am a server developer (Not a coder) and YOU can hire me to fix or do YOUR server!
-- What am I currently working on? acepvp.ml *A Minecraft Server (PvP) 
+- What am I currently working on? acepvp.tk *Game Network (PvP) 
 
 
 <!---
