@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @funkyranveer
-- 📱 Contact: funkyranveer#5643 (DM'S OPEN!)
+- 📱 Contact: funkyranveer#5643
 
-- What am I currently working on? acepvp.tk *Game Network (PvP) 
 
 
 <!---
