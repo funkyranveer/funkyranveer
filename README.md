@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @funkyranveer
-- 📱 Contact: funkyranveer#5643
+- 📱 Contact: funkyranveer | Discord
 
 
 
