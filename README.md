@@ -1,6 +1,4 @@
-- 👋 Hey, I’m @funkyranveer , I do yk a bit of Java for Bukkit and Spigot Development.
-   Oh yea I also own ACE Network so check that out @ https://discord.acepvp.cc/ !
-- 🏗️ Projects: I'm current the owner of ACE Network Australia - https://discord.acepvp.cc/
+- 👋 Hey, I’m @funkyranveer , I'm a Java & Bukkit software developer out of Sydney, Australia!
 - 📱 Contact: funkyranveer | Discord
 
   # Current Skills
