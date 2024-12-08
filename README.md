@@ -2,7 +2,7 @@
 - 📱 Contact: funkyranveer | Discord 
 
   # Current Skills
-[![My Skills](https://skillicons.dev/icons?i=java,cs,mongodb,maven,mysql,idea)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,cs,mongodb,maven,mysql,idea,visualstudio)](https://skillicons.dev)  
 
   
 <!---
